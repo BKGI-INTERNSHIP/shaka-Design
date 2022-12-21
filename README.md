@@ -1,2 +1,2 @@
 # shaka-Design
-all pages design 
+Page designs
